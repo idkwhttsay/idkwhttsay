@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniil Tatarinov</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idkwhttsay&label=Profile%20views&color=0e75b6&style=flat" alt="idkwhttsay" /> </p>
 
-- 🔭 I’m currently working on **Book Managment System on C++**
+- 🔭 I’m currently working on **RS School**
 
-- 🌱 I’m currently learning **C++ OOP Programming**
+- 🌱 I’m currently learning **HTML, CSS, JS**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/daniil-tatarinov-a463712a0/](https://www.linkedin.com/in/daniil-tatarinov-a463712a0/)
 
