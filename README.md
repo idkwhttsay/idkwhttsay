@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **RS School**
 
-- 🌱 I’m currently learning **HTML, CSS, JS**
-
 - 📝 I regularly write articles on [https://www.linkedin.com/in/daniil-tatarinov-a463712a0/](https://www.linkedin.com/in/daniil-tatarinov-a463712a0/)
 
 - 📫 How to reach me **danil.tatarinov.00@gmail.com**
