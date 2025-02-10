@@ -4,14 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idkwhttsay" alt="idkwhttsay" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, Nest.js**
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/daniil-tatarinov-a463712a0/](https://www.linkedin.com/in/daniil-tatarinov-a463712a0/)
-
-- 📫 How to reach me **dtatarinov3@gatech.edu**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/14s8KISN9qrnCgjCpG8HrZNGrH_V3YJ-e/view?usp=sharing](https://drive.google.com/file/d/14s8KISN9qrnCgjCpG8HrZNGrH_V3YJ-e/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/daniil-tatarinov-a463712a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniil tatarinov" height="30" width="40" /></a>
