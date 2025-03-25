@@ -8,4 +8,4 @@ Computer Science | Georgia Tech
  
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idkwhttsay&theme=holi&show_icons=true" alt="idkwhttsay" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=idkwhttsay" alt="idkwhttsay" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idkwhttsay&langs_count=10" alt="idkwhttsay" /></p>
