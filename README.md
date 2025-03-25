@@ -7,5 +7,3 @@ Computer Science | Georgia Tech
 - My Codeforces: https://codeforces.com/profile/tatar4onok
  
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idkwhttsay&theme=holi&show_icons=true" alt="idkwhttsay" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idkwhttsay&langs_count=10" alt="idkwhttsay" /></p>
