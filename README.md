@@ -7,10 +7,10 @@
 
 namespace core {
     struct profile {
-        static constexpr const char* website  = "https://tatarinov.org";
-        static constexpr const char* linkedin = "https://www.linkedin.com/in/daniil-tatarinov-a463712a0/";
+        static constexpr const char* website    = "https://tatarinov.org";
+        static constexpr const char* linkedin   = "https://www.linkedin.com/in/daniil-tatarinov-a463712a0/";
         static constexpr const char* codeforces = "https://codeforces.com/profile/tatar4onok";
-        static constexpr const char* github   = "https://github.com/idkwhttsay";
+        static constexpr const char* github     = "https://github.com/idkwhttsay";
     };
 
     struct exp {
@@ -20,3 +20,5 @@ namespace core {
     };
 }
 ```
+
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=idkwhttsay&theme=holi&show_icons=true" alt="idkwhttsay" /></p>
