@@ -1,24 +1,25 @@
-```cpp
-// author: daniil tatarinov
-// major: cs @ georgia tech
-// field: systems | c++ | os
+<h1 align="center">daniil tatarinov</h1>
+<p align="center">cs @ georgia tech</p>
 
-#pragma once
+<p align="center">
+  <a href="https://tatarinov.org">website</a> •
+  <a href="https://www.linkedin.com/in/daniil-tatarinov-a463712a0/">linkedin</a> •
+  <a href="https://codeforces.com/profile/tatar4onok">codeforces</a> •
+  <a href="https://github.com/idkwhttsay">github</a>
+</p>
 
-namespace core {
-    struct profile {
-        static constexpr const char* website    = "https://tatarinov.org";
-        static constexpr const char* linkedin   = "https://www.linkedin.com/in/daniil-tatarinov-a463712a0/";
-        static constexpr const char* codeforces = "https://codeforces.com/profile/tatar4onok";
-        static constexpr const char* github     = "https://github.com/idkwhttsay";
-    };
+---
 
-    struct exp {
-        static constexpr const char* research          = "csail commit — finch compiler";
-        static constexpr const char* ibm               = "granite — code generation models";
-        static constexpr const char* trading_at_gt     = "trading competition infra";
-    };
-}
-```
+<p align="center">
+  systems | c++ | os
+</p>
+
+<p align="center">
+  research @ <a href="[https://mit-commit.github.io/commit-website/">csail commit</a> — finch compiler  
+  <br>
+  ibm granite | code generation models  
+  <br>
+  trading @ gt | trading competition infra
+</p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=idkwhttsay&theme=holi&show_icons=true" alt="idkwhttsay" /></p>
