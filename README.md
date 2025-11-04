@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  research @ <a href="[https://mit-commit.github.io/commit-website/">csail commit</a> — finch compiler  
+  research @ <a href="[https://mit-commit.github.io/commit-website/">csail commit</a> | finch compiler  
   <br>
   ibm granite | code generation models  
   <br>
